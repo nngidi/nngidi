@@ -3,7 +3,7 @@ I'm Nosipho from South Africa 🇿🇦, a passionate Software Developer 💻 and
 
     Languages: Python 🐍, Java ☕, SQL 🗃️, JavaScript 🌐.
     Frameworks & Tools: Django ⚙️, HTML 🌟, CSS 🎨.
-    Databases: MySQL 🛢️, SQLite 📦.
+    Databases: MySQL 🛢️, SQLite 📦, PostgreSQL 🐘.
 
 I’m open to collaborations and specialize in data extraction, cleaning, transformation, streaming, and loading processes (ETL pipelines 💡). Currently, I’m working on building a Banking App 💰 and expanding my skills by learning React ⚛️ while preparing for the AWS Cloud Practitioner Certification ☁️.
 
